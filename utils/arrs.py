@@ -1,3 +1,6 @@
+import pytest
+import coverage
+
 """Функции для работы с массивами"""
 
 
